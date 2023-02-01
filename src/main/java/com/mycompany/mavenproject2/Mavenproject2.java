@@ -1,6 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package com.mycompany.mavenproject2;
 
@@ -11,6 +9,6 @@ package com.mycompany.mavenproject2;
 public class Mavenproject2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("ola que pez mi acauamarino?!");
     }
 }
